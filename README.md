@@ -1,5 +1,4 @@
 # Super auto pets META
-___
 
 ## Coisas feitas e a fazer 
 ### Prototipar
@@ -27,5 +26,6 @@ ___
 - [ ] Créditos - Mobile
 
 - [ ] Créditos - DeskTop
+___
 
   
