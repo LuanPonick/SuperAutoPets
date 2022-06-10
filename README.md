@@ -1,3 +1,9 @@
+# Super auto pets META
+___
+
+# Coisas feitas e a fazer 
+## Prototipar
+
 - [x] Home Page - Mobile
 
 - [ ] Home Page - DeskTop
