@@ -1,59 +1,52 @@
 # Super auto pets META
 
 ## Coisas feitas e a fazer 
-### Prototipar
+### Prototipagem :
 
 - [x] Home Page - Mobile
 
   100%
 
-- [ ] Home Page - DeskTop
+- [x] Home Page - DeskTop
 
-  80%
+  100%
 
-- [ ] Battle Simulator - Mobile
+- [x] Battle Simulator - Mobile
 
-  80%
+  100%
 
-- [ ] Battle Simulator - DeskTop
+- [x] Battle Simulator - DeskTop
 
-  10%
+  100%
 
-- [ ] Game Status - Mobile
+- [x] Game Status - Mobile
 
-  70%
+  100%
 
-- [ ] Game Status - DeskTop
+- [x] Game Status - DeskTop
 
-  0%
+  100%
 
-- [ ] Tier Lists - Mobile
+- [x] Tier Lists - Mobile
 
-  0%
+  100%
 
-- [ ] Tier Lists - DeskTop
+- [x] Tier Lists - DeskTop
 
-  0%
+  100%
 
-- [ ] Uppdates Notes - Mobile
+- [x] Uppdates Notes - Mobile
 
-  0%
+  100%
 
-- [ ] Uppdates Notes - Desktop
+- [x] Uppdates Notes - Desktop
 
-  0%
+  100%
 
 - [ ] Créditos - Mobile
 
   0%
 
 - [ ] Créditos - DeskTop
-___
 
-<<<<<<< Updated upstream
-  
-=======
   0%
-
-  
->>>>>>> Stashed changes
