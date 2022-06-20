@@ -47,6 +47,29 @@
 
   0%
 
-- [ ] Créditos - DeskTop
+  ## imagens prontas 
 
-  0%
+- [ ] Imagens Home Page desktop/mobile
+
+  - [x] Ícone site d/m;
+  - [x] Ícone menu d/m;
+  - [ ] Banner principal m;
+  - [ ] botão batalha d/m;
+  - [ ] botão status d/m;
+  - [ ] botão tier list d/m;
+  - [ ] notas de atualização d/m;
+  - [ ] créditos.
+
+- [ ] Imagens Battle Page desktop/mobile
+
+  - [ ] fundo 1 d/m
+
+  - [ ] fundo 2 d/m
+
+  - [ ] Ícone botão d/m
+
+  - [ ] Ícone batalha d/m
+
+  - [ ] Informativo 
+
+    
