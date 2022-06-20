@@ -49,7 +49,9 @@
 
   ## imagens prontas 
 
-- [ ] Imagens Home Page desktop/mobile
+- [ ] 
+
+- [ ] 
 
   - [x] Ícone site d/m;
   - [x] Ícone menu d/m;
@@ -60,7 +62,7 @@
   - [ ] notas de atualização d/m;
   - [ ] créditos.
 
-- [ ] Imagens Battle Page desktop/mobile
+- [ ] Imagens  Pagina Batalha desktop/mobile
 
   - [ ] fundo 1 d/m
 
@@ -72,4 +74,6 @@
 
   - [ ] Informativo 
 
-    
+  - [ ] Seta
+  
+  - [ ] 
