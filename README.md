@@ -65,15 +65,13 @@
 - [ ] Imagens  Pagina Batalha desktop/mobile
 
   - [ ] fundo 1 d/m
-
   - [ ] fundo 2 d/m
-
   - [ ] Ícone botão d/m
-
   - [ ] Ícone batalha d/m
-
-  - [ ] Informativo 
-
-  - [ ] Seta
+  - [ ] Informativo d/m
+  - [ ] Seta m
   
-  - [ ] 
+- [ ] Imagens Jogo Informações dektop
+
+  - [ ] Botão Pesquisa
+  - [ ] Botao 
