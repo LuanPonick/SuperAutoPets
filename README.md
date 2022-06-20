@@ -55,21 +55,19 @@
 
   - [x] Ícone site d/m;
   - [x] Ícone menu d/m;
-  - [ ] Banner principal m;
-  - [ ] botão batalha d/m;
-  - [ ] botão status d/m;
-  - [ ] botão tier list d/m;
-  - [ ] notas de atualização d/m;
-  - [ ] créditos.
+  - [x] Banner principal m;
+  - [x] botão batalha d/m;
+  - [x] botão status d/m;
+  - [x] botão tier list d/m;
+  - [x] notas de atualização d/m;
 
 - [ ] Imagens  Pagina Batalha desktop/mobile
 
-  - [ ] fundo 1 d/m
-  - [ ] fundo 2 d/m
-  - [ ] Ícone botão d/m
-  - [ ] Ícone batalha d/m
-  - [ ] Informativo d/m
-  - [ ] Seta m
+  - [x] fundo 1 d/m
+  - [x] fundo 2 d/m
+  - [x] Ícone espadas d/m
+  - [x] Informativo d/m
+  - [x] Seta m
   
 - [ ] Imagens Jogo Informações dektop
 
