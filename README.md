@@ -51,8 +51,6 @@
 
 - [ ] 
 
-- [ ] 
-
   - [x] Ícone site d/m;
   - [x] Ícone menu d/m;
   - [ ] Banner principal m;
@@ -66,12 +64,18 @@
 
   - [ ] fundo 1 d/m
   - [ ] fundo 2 d/m
-  - [ ] Ícone botão d/m
-  - [ ] Ícone batalha d/m
+  - [ ] Ícone espadas d/m
   - [ ] Informativo d/m
   - [ ] Seta m
-  
-- [ ] Imagens Jogo Informações dektop
 
-  - [ ] Botão Pesquisa
-  - [ ] Botao 
+- [ ] Imagens Jogo Informações dektop / mobile 
+
+  - [ ] Botão Pesquisa d/m
+  - [ ] Botão d/m
+  - [ ] Botão mel 
+  - [ ] botão peixe 
+
+- [ ] Imagens tier list desktop / mobile 
+
+  - [ ] bandeiras BR e EU d/m
+  - [ ] botão filtragem
