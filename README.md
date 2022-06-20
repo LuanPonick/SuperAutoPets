@@ -47,6 +47,10 @@
 
   0%
 
+- [ ] Créditos - Desktop
+
+  0%
+
   ## imagens prontas 
 
 - [ ] 
@@ -67,16 +71,14 @@
   - [x] Informativo d/m
   - [x] Seta m
   
-- [ ] Imagens Jogo Informações dektop
-
 - [ ] Imagens Jogo Informações dektop / mobile 
 
   - [ ] Botão Pesquisa d/m
   - [ ] Botão d/m
-  - [ ] Botão mel 
-  - [ ] botão peixe 
+  - [ ] Botão mel d/m
+  - [ ] botão peixe d/m
 
 - [ ] Imagens tier list desktop / mobile 
 
   - [ ] bandeiras BR e EU d/m
-  - [ ] botão filtragem
+  - [ ] botão filtragem d/m
